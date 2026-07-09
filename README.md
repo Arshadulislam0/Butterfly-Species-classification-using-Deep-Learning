@@ -101,19 +101,6 @@ http://127.0.0.1:5000
 <img width="870" height="859" alt="Screenshot 2026-07-09 234851" src="https://github.com/user-attachments/assets/90a08e69-2835-4168-bd69-37ed91115066" />
 
 
-
-### Home Page
-
-(Add Screenshot Here)
-
----
-
-### Prediction Result
-
-(Add Screenshot Here)
-
----
-
 ## 🧠 Deep Learning Model
 
 - Model: MobileNetV2
