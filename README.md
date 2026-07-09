@@ -96,6 +96,11 @@ http://127.0.0.1:5000
 ---
 
 ## 📷 Screenshots
+<img width="720" height="893" alt="Screenshot 2026-07-09 235032" src="https://github.com/user-attachments/assets/3b4f78d7-7e0d-4f22-ab5d-174dabceed28" />
+<img width="847" height="912" alt="Screenshot 2026-07-09 234911" src="https://github.com/user-attachments/assets/7e36e62f-5c8a-46ca-aa85-0ba8bba9375f" />
+<img width="870" height="859" alt="Screenshot 2026-07-09 234851" src="https://github.com/user-attachments/assets/90a08e69-2835-4168-bd69-37ed91115066" />
+
+
 
 ### Home Page
 
