@@ -3,10 +3,13 @@
 This project is developed using Flask and TensorFlow.
 
 ## Features
-- Butterfly Image Upload
-- AI Prediction
-- Beautiful UI
-- Flask Web Application
+🧠 CNN-based image classification model
+📸 Upload butterfly images for prediction
+⚡ Real-time inference using Flask API
+🎨 Premium modern UI (Bootstrap + Glassmorphism)
+📊 Prediction with confidence score
+📁 Easy model saving & loading
+📱 Fully responsive web interface
 
 ## Installation
 
