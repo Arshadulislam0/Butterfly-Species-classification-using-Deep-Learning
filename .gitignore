@@ -1,0 +1,20 @@
+# Virtual Environment
+ml-env/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Uploaded Images
+static/uploads/
+
+# Large Model File
+Butterfly_Final.keras
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
