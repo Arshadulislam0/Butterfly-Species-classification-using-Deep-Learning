@@ -1,25 +1,156 @@
-# Butterfly Species Classification using Deep Learning
+# 🦋 Butterfly Species Classification using Deep Learning
 
-This project is developed using Flask and TensorFlow.
+A Deep Learning based Butterfly Species Classification web application built with **TensorFlow, MobileNetV2, Flask, Bootstrap 5, HTML, CSS, and JavaScript**.
 
-## Features
-🧠 CNN-based image classification model
-📸 Upload butterfly images for prediction
-⚡ Real-time inference using Flask API
-🎨 Premium modern UI (Bootstrap + Glassmorphism)
-📊 Prediction with confidence score
-📁 Easy model saving & loading
-📱 Fully responsive web interface
+The application allows users to upload a butterfly image and predicts its species using a trained MobileNetV2 model.
 
-## Installation
+---
+
+## 📌 Features
+
+- 🦋 Predict Butterfly Species
+- 📷 Upload Butterfly Images
+- 🤖 Deep Learning (MobileNetV2)
+- ⚡ Fast Prediction
+- 🎨 Beautiful Responsive UI
+- 🌐 Flask Web Application
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3.11
+- TensorFlow 2.x
+- Keras
+- MobileNetV2
+- Flask
+- OpenCV
+- NumPy
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+
+---
+
+## 📂 Project Structure
+
+```
+Butterfly/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── label_map.json
+├── butterfly_final.keras
+│
+├── static/
+│   ├── css/
+│   │     └── style.css
+│   ├── uploads/
+│   └── images/
+│
+├── templates/
+│   ├── index.html
+│   └── result.html
+│
+├── train/
+├── test/
+└── Training_set.csv
+```
+
+---
+
+## 🚀 Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/Arshadulislam0/Butterfly-Species-classification-using-Deep-Learning.git
+```
+
+### Go to Project Folder
+
+```bash
+cd Butterfly-Species-classification-using-Deep-Learning
+```
+
+### Install Requirements
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Run Flask App
+
+```bash
 python app.py
 ```
 
-## Model
+Open your browser and visit
 
-The trained model (`Butterfly_Final.keras`) is not included in this repository because its size is approximately 2 GB.
+```
+http://127.0.0.1:5000
+```
 
-Download the model separately and place it in the project root directory.
+---
+
+## 📷 Screenshots
+
+### Home Page
+
+(Add Screenshot Here)
+
+---
+
+### Prediction Result
+
+(Add Screenshot Here)
+
+---
+
+## 🧠 Deep Learning Model
+
+- Model: MobileNetV2
+- Framework: TensorFlow / Keras
+- Image Size: 224 × 224
+- Optimizer: Adam
+- Loss Function: Categorical Crossentropy
+
+---
+
+## 📊 Dataset
+
+Dataset contains **75 Butterfly Species**.
+
+Each image is resized to **224×224** before prediction.
+
+---
+
+## 🎯 Future Improvements
+
+- Drag & Drop Upload
+- Multiple Image Prediction
+- Model Confidence Graph
+- Deploy on Render
+- API Support
+
+---
+
+## 👨‍💻 Author
+
+**Arshadul Islam**
+
+Machine Learning Engineer
+
+GitHub:
+https://github.com/Arshadulislam0
+
+---
+
+## ⭐ Support
+
+If you like this project,
+
+⭐ Star this repository.
+
